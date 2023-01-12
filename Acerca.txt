@@ -1,0 +1,1 @@
+Es un crud que aloja los datos en el mismo archivo laravel, No tiene bbdd, cuenta con usuario y contraseña.
